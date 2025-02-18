@@ -26,9 +26,9 @@ https://andysmanclub.co.uk/
 
 ## What's Included
 
-- PCB design files (KiCad)
+- [PCB design files (KiCad)](https://github.com/Dev01-D/HSKB/tree/main/PCB%20Files)
 - Case design files (STEP, STL for 3D printing)
-- Firmware configuration (QMK/VIA-compatible)
+- [Firmware configuration (QMK/VIA-compatible)](https://github.com/Dev01-D/HSKB/tree/main/firmware)
 
 ## Getting Started
 
