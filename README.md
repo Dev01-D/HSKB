@@ -1,4 +1,4 @@
-# HSKB – Happy Sabi Key Board
+# HSKB – Happy Sabi KeyBoard
 
 The **HSKB – Happy Sabi Key Board** is a custom mechanical keyboard inspired by the legendary **HHKB** and fueled by a passion for thoughtful design and community support. This project has been a personal journey—learning new software, iterating through several prototypes, and spending approximately **three months** refining every detail.
 
