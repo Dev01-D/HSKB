@@ -12,6 +12,12 @@ Designed with a true HHKB layout, the HSKB features a 6u spacebar and an integra
 
 I am excited to share the HSKB with the open-source community and hope it inspires others to create and contribute. This project would not have been possible without the support and inspiration from the keyboard community.
 
+## Why Choose the HSKB?
+
+Many keyboards with a similar HHKB-inspired layout are often positioned as luxury items, carrying a high price tag and limited customization options. The HSKB offers a more affordable entry point without sacrificing quality or flexibility. Its open-source nature means you can modify and adapt it to suit your preferences—whether it's changing the key mapping, adjusting the stabilizers, or customizing the case.
+
+The HSKB provides a unique balance of cost-efficiency and personalization. It's an excellent option for enthusiasts looking to explore the HHKB layout without breaking the bank. Whether you're new to mechanical keyboards or an experienced hobbyist, the HSKB offers a rewarding, hands-on experience while remaining accessible and adaptable.
+
 ## Unity Switch & Andy's Man Club
 
 This project is also inspired by **Matty's Unity switch**, created in support of **Andy's Man Club**, a mental health charity promoting open conversations and community support. As part of this commitment, one of the five initial HSKBs will be donated to a charity raffle to raise funds for this meaningful cause.
@@ -19,6 +25,7 @@ This project is also inspired by **Matty's Unity switch**, created in support of
 If you use or modify this project, please consider supporting **Andy's Man Club** or a mental health charity in your community.
 
 https://andysmanclub.co.uk/
+https://thoccexchange.com/
 
 ## Features
 
@@ -71,4 +78,3 @@ Consider donating to **Andy's Man Club** or any mental health charity to help co
 Thank you for being a part of the journey.
 
 **Happy building!**
-
