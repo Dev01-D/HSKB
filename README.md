@@ -36,7 +36,7 @@ https://thoccexchange.com/
 ## What's Included
 
 - [PCB design files (KiCad)](https://github.com/Dev01-D/HSKB/tree/main/PCB%20Files)
-- Case design files (STEP, STL for 3D printing)
+- [Case design files (STEP, STL for 3D printing)](https://github.com/Dev01-D/HSKB/tree/main/HSKB%20STL)
 - [Firmware configuration (QMK/VIA-compatible)](https://github.com/Dev01-D/HSKB/tree/main/firmware)
 
 ## Getting Started
