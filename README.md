@@ -24,8 +24,8 @@ This project is also inspired by **Matty's Unity switch**, created in support of
 
 If you use or modify this project, please consider supporting **Andy's Man Club** or a mental health charity in your community.
 
-https://andysmanclub.co.uk/
-https://thoccexchange.com/
+- https://andysmanclub.co.uk/
+- https://thoccexchange.com/
 
 ## Features
 
