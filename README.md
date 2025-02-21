@@ -37,7 +37,7 @@ If you use or modify this project, please consider supporting **Andy's Man Club*
 
 - [PCB design files (KiCad)](https://github.com/Dev01-D/HSKB/tree/main/PCB%20Files)
 - [Case design files (STEP, STL for 3D printing)](https://github.com/Dev01-D/HSKB/tree/main/HSKB%20STL)
-- [Firmware configuration (QMK/VIA-compatible)](https://github.com/Dev01-D/HSKB/tree/main/firmware)
+- [Firmware configuration (QMK/VIA-compatible)](https://github.com/Dev01-D/HSKB/tree/main/Firmware)
 
 ## Getting Started
 
