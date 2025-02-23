@@ -44,7 +44,7 @@ If you use or modify this project, please consider supporting **Andy's Man Club*
 1. **Clone the repository:**
     ```bash
     git clone https://github.com/Dev01-D/hskb.git
-    cd hsbk
+    cd hskb
     ```
 
 2. **Explore the design files:**
